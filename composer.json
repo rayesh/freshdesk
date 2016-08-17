@@ -1,5 +1,5 @@
 {
-    "name": "johnsbabu/freshdesk-laravel",
+    "name": "mpclarkson/freshdesk-laravel",
     "description": "Laravel package for the Freshdesk API (v2)",
     "homepage": "https://github.com/johnsbabu/freshdesk-laravel",
     "keywords": ["freshdesk", "customer service", "support", "help desk", "api", "laravel"],
