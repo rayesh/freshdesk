@@ -1,0 +1,8 @@
+{
+    "packages": {
+        "mpclarkson/freshdesk-laravel": {
+            "dev-master": { @composer.json },
+            "dev-update": { @composer.json }
+        }
+    }
+}
