@@ -1,7 +1,7 @@
 {
-    "name": "mpclarkson/freshdesk-laravel",
+    "name": "johnsbabu/freshdesk-laravel",
     "description": "Laravel package for the Freshdesk API (v2)",
-    "homepage": "https://github.com/mpclarkson/freshdesk-laravel",
+    "homepage": "https://github.com/johnsbabu/freshdesk-laravel",
     "keywords": ["freshdesk", "customer service", "support", "help desk", "api", "laravel"],
     "type": "laravel-package",
     "require": {
